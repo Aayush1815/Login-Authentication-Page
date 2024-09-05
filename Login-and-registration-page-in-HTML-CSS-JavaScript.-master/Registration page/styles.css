@@ -1,0 +1,128 @@
+body {
+    background-color: rgb(230, 236, 240);
+}
+
+.title {
+    color: rgb(69, 141, 10);
+    font-size: 49.9px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 20px 12px;
+}
+
+form {
+    padding: 10px;
+    line-height: 10px;
+}
+
+p.form-label {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    border-bottom: 1.5px solid black;
+    font-family: cursive;
+}
+
+input[type="text"],
+input[type="password"],
+select {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+button {
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    width: 100px;
+    height: 25px;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.52;
+}
+
+.required-field {
+    color: red;
+    font-size: 12px;
+}
+
+.password-reset {
+    color: black;
+}
+
+.password-reset a {
+    text-decoration: none;
+    color: rgb(69, 141, 10);
+}
+
+.password-reset a:hover {
+    text-decoration: underline;
+}
+body {
+    background-color: rgb(230, 236, 240);
+}
+
+.title {
+    color: rgb(69, 141, 10);
+    font-size: 49.9px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 20px 12px;
+}
+
+form {
+    padding: 10px;
+    line-height: 10px;
+}
+
+p.form-label {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    border-bottom: 1.5px solid black;
+    font-family: cursive;
+}
+
+input[type="text"],
+input[type="password"],
+select {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+button {
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    width: 100px;
+    height: 25px;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.52;
+}
+
+.required-field {
+    color: red;
+    font-size: 12px;
+}
+
+.password-reset {
+    color: black;
+}
+
+.password-reset a {
+    text-decoration: none;
+    color: rgb(69, 141, 10);
+}
+
+.password-reset a:hover {
+    text-decoration: underline;
+}
